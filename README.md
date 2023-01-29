@@ -13,4 +13,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmukeshh&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arjunmukeshh&icon=8&color=12)](https://visitcount.itsvg.in)
+
